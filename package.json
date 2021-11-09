@@ -16,7 +16,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/msudol/hubot-help-plus.git"
+    "url": "git+https://github.com/msudol/hubot-help-plus.git"
   },
   "bugs": {
     "url": "https://github.com/msudol/hubot-help-plus/issues"
@@ -30,9 +30,10 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
-  },  
+  },
   "files": [
     "index.js",
     "src"
-  ]
+  ],
+  "homepage": "https://github.com/msudol/hubot-help-plus#readme"
 }
